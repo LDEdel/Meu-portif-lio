@@ -14,12 +14,11 @@ body{
 }
 
 header{
-  max-width: 10000px;
+  width: 100%;
   display: flex;
   text-align: center;
   justify-content: end;
   padding: 25px;
-  background-color: #33ff00;
 }
 
 .header-link{
