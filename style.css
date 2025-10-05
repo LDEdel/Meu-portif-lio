@@ -16,8 +16,9 @@ body{
 header{
   display: flex;
   text-align: center;
-  justify-content: right;
+  justify-content: end;
   padding: 25px;
+  background-color: #33ff00;
 }
 
 .header-link{
