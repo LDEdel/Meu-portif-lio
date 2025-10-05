@@ -14,7 +14,7 @@ body{
 }
 
 header{
-  width: auto;
+  max-width: 10000px;
   display: flex;
   text-align: center;
   justify-content: end;
