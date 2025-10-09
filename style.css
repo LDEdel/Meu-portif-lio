@@ -189,6 +189,8 @@ a:hover{
 
 #aboutMeText{
     font-size: 20px;
+    text-align: justify;
+    text-indent: 2em;
 }
 
 #divTxt{
